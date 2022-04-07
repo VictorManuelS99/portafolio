@@ -22,7 +22,6 @@ export const Sidebar = () => {
           </Link>
         </li>
       </ul>
-      <footer></footer>
-    </Wrapper>
+     </Wrapper>
   );
 };
