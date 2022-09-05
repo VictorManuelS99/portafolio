@@ -1,1 +1,1 @@
-Hello, welcome to my portfolio repository
+Hello, welcome to my portfolio.
