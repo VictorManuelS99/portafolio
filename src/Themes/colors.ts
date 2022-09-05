@@ -15,7 +15,7 @@ export const colors = {
     main: "#000000",
   },
   primary: {
-    main: "#F7CF46",
+    main: "#00D362",
   },
   secondary: {
     main: "#ffc107",
@@ -29,4 +29,5 @@ export const colors = {
   dark: {
     main: "#1D1D1B",
   },
+  red: "#ff1919",
 };

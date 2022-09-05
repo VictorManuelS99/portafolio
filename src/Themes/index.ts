@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
     }
     @font-face {
       font-family: 'Jetbrains Mono';
-      src: url('../../Assets/Fonts/JetBrainsMono-Regular.woff2');
+      src: url('../Assets/Fonts/JetBrainsMono-Regular.woff2');
     }
 
     html,
@@ -16,6 +16,7 @@ export const GlobalStyle = createGlobalStyle`
       padding: 0;
       margin: 0;
       font-family:'Jetbrains Mono', sans-serif;
+      background-color: #242424;
     }
 
     a {
